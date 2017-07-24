@@ -1,0 +1,101 @@
+﻿<%@ Master  Language="C#" AutoEventWireup="true" CodeBehind="DLMaster.master.cs" Inherits="Dirty_Laundry.DLMaster" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+
+      <meta charset="utf-8"/>
+        <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+        <meta name="viewport" content="width=device-width, initial-scale=1"/>
+        
+        <!-- CSS -->
+        <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Open+Sans:700,300,400"/>        
+        <link rel="stylesheet" href="CSS/assets/bootstrap/css/bootstrap.min.css"/>
+        <link rel="stylesheet" href="CSS/assets/font-awesome/css/font-awesome.min.css"/>
+        <link rel="stylesheet" href="CSS/assets/elegant-font/code/style.css"/>
+        <link rel="stylesheet" href="CSS/assets/css/animate.css"/>
+        <link rel="stylesheet" href="CSS/assets/css/magnific-popup.css"/>
+		<link rel="stylesheet" href="CSS/assets/css/form-elements.css"/>
+        <link rel="stylesheet" href="CSS/assets/css/style.css"/>
+        <link rel="stylesheet" href="CSS/assets/css/media-queries.css"/>
+
+        <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+        <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+        <!--[if lt IE 9]>
+            <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+            <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+        <![endif]-->
+
+        <!-- Favicon and touch icons -->
+        <link rel="shortcut icon" href="assets/ico/favicon.png"/>
+        <link rel="apple-touch-icon-precomposed" sizes="144x144" href="CSS/assets/ico/apple-touch-icon-144-precomposed.png"/>
+        <link rel="apple-touch-icon-precomposed" sizes="114x114" href="CSS/assets/ico/apple-touch-icon-114-precomposed.png"/>
+        <link rel="apple-touch-icon-precomposed" sizes="72x72" href="CSS/assets/ico/apple-touch-icon-72-precomposed.png"/>
+        <link rel="apple-touch-icon-precomposed" href="CSS/assets/ico/apple-touch-icon-57-precomposed.png"/>
+
+
+      <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+        <meta name="description" content=""/>
+        <meta name="author" content=""/>
+        <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+        <!-- Favicon -->
+        <link href="favicon.ico" rel="shortcut icon"/>
+        <!-- Bootstrap Core CSS -->
+        <link rel="stylesheet" href="assets/css/bootstrap.css" />
+        <!-- Template CSS -->
+        <link rel="stylesheet" href="CSS/assets/css/animate.css" />
+        <link rel="stylesheet" href="CSS/assets/css/font-awesome.css" />
+        <link rel="stylesheet" href="CSS/assets/css/nexus.css" />
+        <link rel="stylesheet" href="CSS/assets/css/responsive.css" />
+        <link rel="stylesheet" href="CSS/assets/css/custom.css" />
+        <!-- Google Fonts-->
+        <link href="http://fonts.googleapis.com/css?family=Raleway:100,300,400" type="text/css" rel="stylesheet" />
+        <link href="http://fonts.googleapis.com/css?family=Roboto:400,300" type="text/css" rel="stylesheet"/>
+  
+</head>
+<body>
+    <form id="form1" runat="server">
+   
+      
+		
+		<!-- Top menu -->
+		<nav class="navbar navbar-fixed-top" role="navigation">
+			<div class="container">
+				<div class="navbar-header">
+					<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#top-navbar-1">
+						<span class="sr-only">Toggle navigation</span>
+						<span class="icon-bar"></span>
+						<span class="icon-bar"></span>
+						<span class="icon-bar"></span>
+					</button>
+				</div>
+				<!-- Collect the nav links, forms, and other content for toggling -->
+				<div class="collapse navbar-collapse" id="top-navbar-1">
+					<ul class="nav navbar-nav navbar-right">
+						<li><a  href="Home.aspx">Home</a></li>
+						<li><a  href="Pickups.aspx">Pickups</a></li>
+						<li><a href="Login.aspx">Login</a></li>
+                       <li><a href="Registration.aspx">Register</a></li>
+						<li><a href="Management.aspx">Management</a></li>
+                         <li><a  href="Profile.aspx">Account</a></li>
+                        <li><a href="Progress.aspx">Progress</a></li>
+						<li><a href="Contact.aspx">Contact</a></li>
+                        
+					</ul>
+				</div>
+			
+		</nav>
+
+             
+        <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+        </asp:ContentPlaceHolder>
+ 
+    </form>
+ 
+</body>
+</html>
+<%--  --%>

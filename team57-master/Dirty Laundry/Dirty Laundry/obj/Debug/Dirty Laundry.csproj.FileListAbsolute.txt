@@ -1,0 +1,63 @@
+c:\users\gc\documents\visual studio 2015\Projects\Dirty Laundry\Dirty Laundry\bin\roslyn\csc.exe
+c:\users\gc\documents\visual studio 2015\Projects\Dirty Laundry\Dirty Laundry\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\gc\documents\visual studio 2015\Projects\Dirty Laundry\Dirty Laundry\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\gc\documents\visual studio 2015\Projects\Dirty Laundry\Dirty Laundry\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\gc\documents\visual studio 2015\Projects\Dirty Laundry\Dirty Laundry\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\gc\documents\visual studio 2015\Projects\Dirty Laundry\Dirty Laundry\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\gc\documents\visual studio 2015\Projects\Dirty Laundry\Dirty Laundry\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\gc\documents\visual studio 2015\Projects\Dirty Laundry\Dirty Laundry\bin\roslyn\System.Collections.Immutable.dll
+c:\users\gc\documents\visual studio 2015\Projects\Dirty Laundry\Dirty Laundry\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\gc\documents\visual studio 2015\Projects\Dirty Laundry\Dirty Laundry\bin\roslyn\vbc.exe
+c:\users\gc\documents\visual studio 2015\Projects\Dirty Laundry\Dirty Laundry\bin\roslyn\VBCSCompiler.exe
+c:\users\gc\documents\visual studio 2015\Projects\Dirty Laundry\Dirty Laundry\bin\roslyn\VBCSCompiler.exe.config
+c:\users\gc\documents\visual studio 2015\Projects\Dirty Laundry\Dirty Laundry\bin\Dirty Laundry.dll.config
+c:\users\gc\documents\visual studio 2015\Projects\Dirty Laundry\Dirty Laundry\bin\Dirty Laundry.dll
+c:\users\gc\documents\visual studio 2015\Projects\Dirty Laundry\Dirty Laundry\bin\Dirty Laundry.pdb
+c:\users\gc\documents\visual studio 2015\Projects\Dirty Laundry\Dirty Laundry\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\gc\documents\visual studio 2015\Projects\Dirty Laundry\Dirty Laundry\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\gc\documents\visual studio 2015\Projects\Dirty Laundry\Dirty Laundry\obj\Debug\Dirty Laundry.csprojResolveAssemblyReference.cache
+c:\users\gc\documents\visual studio 2015\Projects\Dirty Laundry\Dirty Laundry\obj\Debug\Dirty Laundry.dll
+c:\users\gc\documents\visual studio 2015\Projects\Dirty Laundry\Dirty Laundry\obj\Debug\Dirty Laundry.pdb
+C:\Users\Cresta\Desktop\Git\team57\Dirty Laundry\Dirty Laundry\bin\roslyn\csc.exe
+C:\Users\Cresta\Desktop\Git\team57\Dirty Laundry\Dirty Laundry\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Cresta\Desktop\Git\team57\Dirty Laundry\Dirty Laundry\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Cresta\Desktop\Git\team57\Dirty Laundry\Dirty Laundry\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Cresta\Desktop\Git\team57\Dirty Laundry\Dirty Laundry\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Cresta\Desktop\Git\team57\Dirty Laundry\Dirty Laundry\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Cresta\Desktop\Git\team57\Dirty Laundry\Dirty Laundry\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Cresta\Desktop\Git\team57\Dirty Laundry\Dirty Laundry\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Cresta\Desktop\Git\team57\Dirty Laundry\Dirty Laundry\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Cresta\Desktop\Git\team57\Dirty Laundry\Dirty Laundry\bin\roslyn\vbc.exe
+C:\Users\Cresta\Desktop\Git\team57\Dirty Laundry\Dirty Laundry\bin\roslyn\VBCSCompiler.exe
+C:\Users\Cresta\Desktop\Git\team57\Dirty Laundry\Dirty Laundry\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Cresta\Desktop\Git\team57\Dirty Laundry\Dirty Laundry\bin\Dirty Laundry.dll.config
+C:\Users\Cresta\Desktop\Git\team57\Dirty Laundry\Dirty Laundry\bin\Dirty Laundry.dll
+C:\Users\Cresta\Desktop\Git\team57\Dirty Laundry\Dirty Laundry\bin\Dirty Laundry.pdb
+C:\Users\Cresta\Desktop\Git\team57\Dirty Laundry\Dirty Laundry\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Cresta\Desktop\Git\team57\Dirty Laundry\Dirty Laundry\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Cresta\Desktop\Git\team57\Dirty Laundry\Dirty Laundry\obj\Debug\Dirty Laundry.csprojResolveAssemblyReference.cache
+C:\Users\Cresta\Desktop\Git\team57\Dirty Laundry\Dirty Laundry\obj\Debug\Dirty Laundry.dll
+C:\Users\Cresta\Desktop\Git\team57\Dirty Laundry\Dirty Laundry\obj\Debug\Dirty Laundry.pdb
+C:\Users\Cresta\Desktop\Git\team57\Dirty Laundry\Dirty Laundry\bin\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\cz\Desktop\Git\team57-master\Dirty Laundry\Dirty Laundry\obj\Debug\Dirty Laundry.csprojResolveAssemblyReference.cache
+C:\Users\cz\Desktop\Git\team57-master\Dirty Laundry\Dirty Laundry\obj\Debug\Dirty Laundry.dll
+C:\Users\cz\Desktop\Git\team57-master\Dirty Laundry\Dirty Laundry\obj\Debug\Dirty Laundry.pdb
+C:\Users\cz\Desktop\Git\team57-master\Dirty Laundry\Dirty Laundry\bin\roslyn\csc.exe
+C:\Users\cz\Desktop\Git\team57-master\Dirty Laundry\Dirty Laundry\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\cz\Desktop\Git\team57-master\Dirty Laundry\Dirty Laundry\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\cz\Desktop\Git\team57-master\Dirty Laundry\Dirty Laundry\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\cz\Desktop\Git\team57-master\Dirty Laundry\Dirty Laundry\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\cz\Desktop\Git\team57-master\Dirty Laundry\Dirty Laundry\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\cz\Desktop\Git\team57-master\Dirty Laundry\Dirty Laundry\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\cz\Desktop\Git\team57-master\Dirty Laundry\Dirty Laundry\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\cz\Desktop\Git\team57-master\Dirty Laundry\Dirty Laundry\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\cz\Desktop\Git\team57-master\Dirty Laundry\Dirty Laundry\bin\roslyn\vbc.exe
+C:\Users\cz\Desktop\Git\team57-master\Dirty Laundry\Dirty Laundry\bin\roslyn\VBCSCompiler.exe
+C:\Users\cz\Desktop\Git\team57-master\Dirty Laundry\Dirty Laundry\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\cz\Desktop\Git\team57-master\Dirty Laundry\Dirty Laundry\bin\Dirty Laundry.dll.config
+C:\Users\cz\Desktop\Git\team57-master\Dirty Laundry\Dirty Laundry\bin\Dirty Laundry.dll
+C:\Users\cz\Desktop\Git\team57-master\Dirty Laundry\Dirty Laundry\bin\Dirty Laundry.pdb
+C:\Users\cz\Desktop\Git\team57-master\Dirty Laundry\Dirty Laundry\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\cz\Desktop\Git\team57-master\Dirty Laundry\Dirty Laundry\bin\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\cz\Desktop\Git\team57-master\Dirty Laundry\Dirty Laundry\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\cz\Desktop\Git\team57-master\Dirty Laundry\Dirty Laundry\bin\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml

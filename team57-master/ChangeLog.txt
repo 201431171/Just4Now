@@ -1,0 +1,12 @@
+
+12/03/2017
+-215070825 removed banner header from the master page on the      
+ prototype
+
+-215070825 Created Prototype User Interface Document with the 
+ following pages: home,registration,and login page
+
+
+12/03/2017
+-215070825 added the management and laundry progress pages to 
+ the Prototype
