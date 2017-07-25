@@ -14,11 +14,17 @@ namespace Dirty_Laundry
 
         }
 
-       
+
         protected void btnRegister_Click(object sender, EventArgs e)
         {
-             Classes.UserAccounts.Reg(txtfname.Text, txtlname.Text, txtusername.Text, txtpassword.Text, txtemail.Text,txtaddress.Text);
+            
+            Classes.UserAccounts.Reg(txtfname.Text, txtlname.Text, txtusername.Text, txtpassword.Text, txtemail.Text, txtaddress.Text);
             Response.Redirect("Login.aspx");
+        
         }
+     
+        }
+
+
     }
-}
+    
