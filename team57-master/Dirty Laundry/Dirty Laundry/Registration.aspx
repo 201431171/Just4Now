@@ -71,7 +71,7 @@
                            
                             
                             <asp:TextBox ID="txtfname" placeholder="First Name"  class="form-control margin-bottom-20" runat="server" ForeColor="Green"></asp:TextBox>
-                            <asp:RequiredFieldValidator ID="RequiredFieldValidator1" runat="server" ControlToValidate="txtfname" ErrorMessage="Firstname Required" ForeColor="Red"></asp:RequiredFieldValidator>
+                            <asp:RequiredFieldValidator ID="RequiredFieldValidator1" runat="server" ControlToValidate="txtfname" ErrorMessage="Firstname Required" ForeColor="Blue"></asp:RequiredFieldValidator>
                           <br />
                             <asp:TextBox ID="txtlname"  placeholder="Last Name"  class="form-control margin-bottom-20" runat="server" ForeColor="Green"></asp:TextBox>
                            <br />
